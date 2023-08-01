@@ -1,0 +1,19 @@
+Dart playlist {
+	Arabic : https://www.youtube.com/playlist?list=PL3aG1K3LWCrdihgr1PnIrbphTyt3PZwoK
+	Arabic : https://www.youtube.com/playlist?list=PLGVaNq6mHinjCPki-3xraQdGWKVz7PhgI	
+}
+Flutter Playlist {
+	English Resource : https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
+	Arabic Resource : https://www.youtube.com/playlist?list=PL93xoMrxRJItdRumqolHX0UT-LHK8_39N
+}
+Sqflite Resources {
+	https://www.youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag
+
+}
+Async/Await {
+	https://www.youtube.com/watch?v=SmTCmDMi4BY&t=98s&pp=ygUSYXluYyBhd2FpdCBmbHV0dGVy (Flutter Channel)
+	https://www.youtube.com/watch?v=6lmWFoWgPq4&pp=ygUSYXluYyBhd2FpdCBmbHV0dGVy  (Arabic Resource)
+}
+SQL Syntax{
+	https://www.w3schools.com/sql/sql_select.asp
+}
